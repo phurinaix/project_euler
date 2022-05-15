@@ -48,5 +48,5 @@ function bestTotalProductUsingSlidingWindow(digits, k) {
 }
 
 console.log(bestTotalProductUsingBruteForce(digits, adjacent)); // expect 23514624000 (from 5576689664895)
-console.log(bestTotalProduct(digits, adjacent)); // expect 23514624000 (from 5576689664895)
+console.log(bestTotalProductUsingSlidingWindow(digits, adjacent)); // expect 23514624000 (from 5576689664895)
 
