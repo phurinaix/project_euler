@@ -37,3 +37,5 @@ console.log(countCollatzChain(13)); // expected 10
 
 console.log(main(1000000));
 
+// interesting video about Collatz Conjecture https://www.youtube.com/watch?v=094y1Z2wpJg
+
